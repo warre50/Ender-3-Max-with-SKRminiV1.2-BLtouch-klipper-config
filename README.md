@@ -2,7 +2,7 @@
 This is my configuration for klipper I made for a friend his Ender 3 Max with an SKRmini E3 V1.2 motherboard with BLtouch
 
 
-The offset for the BLtouch probe are not yet correct and need to be set to your specific setup
+The offset for the BLtouch probe is not yet correct and need to be set to your specific setup
 
 use this as example:
 
